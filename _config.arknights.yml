@@ -9,8 +9,8 @@ color: dark
 
 # <body> 背景图片链接
 background_image:
-  dark: https://cdn.staticaly.com/gh/DreamifEnd/pirture@master/pic/54995687_p0.png  # 暗色模式
-  light: https://cdn.staticaly.com/gh/DreamifEnd/pirture@master/pic/bk2.png # 亮色模式
+  dark: https://dreamend.oss-cn-shanghai.aliyuncs.com/54995687_p0.png  # 暗色模式
+  light: https://dreamend.oss-cn-shanghai.aliyuncs.com/bk2.png # 亮色模式
 
 # 导航栏
 menu:
