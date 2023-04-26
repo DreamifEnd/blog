@@ -26,5 +26,19 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamifEnd/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreamifEnd/blog/issues"
+  },
+  "homepage": "https://github.com/DreamifEnd/blog#readme",
+  "description": ""
 }
